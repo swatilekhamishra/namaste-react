@@ -38,11 +38,11 @@
 96C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\@swc\helpers\src\_update.mjs133187770642160986 0
 98C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\cosmiconfig\dist\readFile.d.ts133187770477023272 0
 82C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\svgo\README.md133187770606979782 0
-61C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\App.js133200391912603248 0
+61C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\App.js133333782873180004 0
 85C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\base-x\LICENSE.md133187770081687881 0
 108C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\@swc\helpers\lib\_array_like_to_array.js133187770080821626 0
 93C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\@parcel\packager-html\lib133187770032468764 1
-67C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\package.json133200380131578389 0
+67C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\package.json133307882669694103 0
 110C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\@babel\helper-hoist-variables\lib\index.js133200380047457343 0
 103C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\svgo\lib\svgo\css-select-adapter.js133187770407695066 0
 99C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\@parcel\transformer-raw\LICENSE133187769991733266 0
@@ -64,7 +64,7 @@
 77C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\.bin\svgo133187770771173732 0
 124C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\@babel\types\lib\comments\inheritTrailingComments.js.map133200380101242433 0
 92C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\weak-lru-cache\README.md133187770294443304 0
-59C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\dist133200393464418414 1
+59C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\dist133332936461686247 1
 76C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\boolbase133187770071292740 1
 93C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\@parcel\namer-default\lib133187770032478737 1
 84C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\semver\semver.js133187770123575646 0
@@ -932,7 +932,7 @@
 99C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\caniuse-lite\data\regions\GR.js133187770724815472 0
 108C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\csso\lib\restructure\3-disjoinRuleset.js133187770101349538 0
 118C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\htmlnano\lib\modules\deduplicateAttributeValues.js133187770304392823 0
-77C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\dist\index.7826abd7.js133200393464166018 0
+77C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\dist\index.7826abd7.js133332936461375063 0
 102C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\lmdb\dependencies\lz4\lib\xxhash.c133187770606455918 0
 106C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\css-tree\lib\syntax\atrule\supports.js133187770635096894 0
 99C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\weak-lru-cache\rollup.config.js133187770148225546 0
@@ -1154,7 +1154,7 @@
 106C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\htmlnano\docs\docs\010-introduction.md133187770511586185 0
 104C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\@parcel\diagnostic\src\diagnostic.js133187770091405428 0
 86C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\micromatch\LICENSE133187769989309923 0
-81C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\dist\index.7826abd7.js.map133200393464318277 0
+81C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\dist\index.7826abd7.js.map133332936461666304 0
 88C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\json5\lib\parse.d.ts133187770378506145 0
 99C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\@parcel\workers\src\Profiler.js133187770422403685 0
 102C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\type-fest\source\set-optional.d.ts133187770431460818 0
@@ -4741,7 +4741,7 @@
 91C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\@babel\traverse\LICENSE133200380050397173 0
 96C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\@babel\traverse\node_modules133200380033448320 1
 104C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\@babel\traverse\node_modules\globals133200380050146160 1
-78C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\dist\index.9e4c6fd2.css133200393464106173 0
+78C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\dist\index.9e4c6fd2.css133332936461375063 0
 117C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\@babel\traverse\node_modules\globals\package.json133200380038084906 0
 114C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\@babel\traverse\node_modules\globals\readme.md133200380050336896 0
 98C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\@babel\traverse\lib\context.js133200380059799812 0
@@ -5099,7 +5099,7 @@
 79C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\.bin\terser133187770771532738 0
 83C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\node_modules\.bin\terser.cmd133187770771183702 0
 77C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\dist\index.6bd02f5a.js133200325613004172 0
-82C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\dist\index.9e4c6fd2.css.map133200393464318277 0
-70C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\dist\index.html133200393464156047 0
+82C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\dist\index.9e4c6fd2.css.map133332936461646353 0
+70C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\dist\index.html133332936461375063 0
 85C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\dist\namaste-react.3464ddca.js133200325613004172 0
 89C:\Users\swati\OneDrive\Documents\GitHub\namaste-react\dist\namaste-react.3464ddca.js.map133200325613310414 0
